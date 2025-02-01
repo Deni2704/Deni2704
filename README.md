@@ -1,6 +1,6 @@
-- 👋 Hi, I am a third-year Computer Science student with experience in various programming languages and technologies, including Java, C, HTML, CSS, MySQL, VHDL, and Assembly. I enjoy working on both software and hardware-related projects, solving problems, and building efficient systems.
+- 👋 Hi, I am a third-year Computer Science student with experience in various programming languages and technologies, including Java,  C, HTML, CSS, MySQL, VHDL, and Assembly. I enjoy working on both software and hardware-related projects, solving problems, and building efficient systems.
 - 👀 I’m interested in software development and web technologies.
-- 🌱 I’m currently improving my Java skills and learning JavaScript and Flutter for mobile app development.
+- 🌱 I’m currently improving my Java skills, learning JavaScript and Flutter for mobile app development and getting familiar with Spring for backend development..
 
 
 <!---
